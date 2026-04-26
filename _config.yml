@@ -23,7 +23,7 @@ repository               : "Anteneh_Yehalem/Anteneh_Yehalem.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.JPG"
   name             : "Anteneh Yehalem Tegegne"
   pronouns         : # example: "she/her"  
   bio              : "Lecturer and researcher in Artificial Intelligence and Data Science, focused on Computer Vision, NLP, and low-cost AI systems."
